@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <table align="center">
 <tbody><tr border="none">
