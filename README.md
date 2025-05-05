@@ -5,7 +5,7 @@
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=louismdv&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
   <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&amp;theme=dark&amp;hide_border=false"> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=louismdv&amp;theme=dark&amp;hide_border=false"> 
 </td><td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=louismdv&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
   </td>
