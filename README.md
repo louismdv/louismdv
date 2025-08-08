@@ -10,7 +10,7 @@ Check out my last project here: https://www.louismdv.works
       <!-- Streak stats card -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
            alt="Mark streak" 
-           src="https://streak-stats.demolab.com/?user=louismdv" />
+           src="[https://streak-stats.demolab.com/?user=louismdv](https://github-readme-streak-stats-henna-psi.vercel.app?user=&theme=dark&exclude_days=Sun%2CSat))" />
     </td>
     <td width="50%" align="center">
       <!-- Top languages card -->
