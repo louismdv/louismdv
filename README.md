@@ -1,4 +1,3 @@
-## I'm currently studying at 42 Paris, and looking for an internship in software development!
 <table align="center">
 <tbody><tr border="none">
 <td width="50%" align="center">
