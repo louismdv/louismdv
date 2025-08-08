@@ -4,13 +4,13 @@ Check out my last project here: https://www.louismdv.works
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
+           alt="Mark streak" 
+           src="https://streak-stats.demolab.com?user=louismdv&theme=dark&hide_border=false&cache_seconds=86400" />
       <!-- Main stats card -->
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=louismdv&theme=dark&show_icons=true&count_private=true">
       <br><br>
       <!-- Streak stats card -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-           alt="Mark streak" 
-           src="https://streak-stats.demolab.com?user=louismdv&theme=dark&hide_border=false&cache_seconds=86400" />
     </td>
     <td width="50%" align="center">
       <!-- Top languages card -->
