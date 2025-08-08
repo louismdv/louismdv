@@ -10,7 +10,7 @@ Check out my last project here: https://www.louismdv.works
       <!-- Streak stats card -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
            alt="Mark streak" 
-           src="[![GitHub Streak](https://streak-stats.demolab.com/?user=louismdv)](https://git.io/streak-stats)" />
+           src="https://streak-stats.demolab.com/?user=louismdv" />
     </td>
     <td width="50%" align="center">
       <!-- Top languages card -->
