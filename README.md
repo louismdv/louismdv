@@ -5,7 +5,7 @@ Check out my last project here: https://www.louismdv.works
   <tr border="none">
     <td width="50%" align="center">
       <!-- Main stats card -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=louismdv&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+      <img align="center" src="github-readme-stats-v1-iota.vercel.app/api?username=louismdv&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
       <br><br>
       <!-- Streak stats card -->
 <!--       <a href="https://git.io/streak-stats">
